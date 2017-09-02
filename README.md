@@ -133,7 +133,7 @@ You can write your own run-file with your own applications,
 look into `dragon_on_wheels/__main__.py` for more code snippets.
 
 In most cases, you need only one SCGI server, but you can
-run a nmber of servers. For example: one for Django, and one
+run a number of servers. For example: one for Django, and one
 for low-level SCGI chat application.
 
 Production `nginx` config
